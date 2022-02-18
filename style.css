@@ -1,16 +1,17 @@
-.internal{
+.external{
     color: orangered;
 }
 body{
     border: 10px double hotpink;
 }
 
-.first-box{
+.box{
     border: 10px solid red;
     margin: 20px;
     padding: 10px;
     width: 30%;
     height: 200px;
+    background-color: aquamarine;
 }
 .circle{
     border: 2px solid blue;
@@ -21,5 +22,5 @@ body{
 }
 #circle2{
     background-color: aqua;
-    
+
 }
