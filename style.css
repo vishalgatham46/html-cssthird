@@ -1,0 +1,25 @@
+.internal{
+    color: orangered;
+}
+body{
+    border: 10px double hotpink;
+}
+
+.first-box{
+    border: 10px solid red;
+    margin: 20px;
+    padding: 10px;
+    width: 30%;
+    height: 200px;
+}
+.circle{
+    border: 2px solid blue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+#circle2{
+    background-color: aqua;
+    
+}
